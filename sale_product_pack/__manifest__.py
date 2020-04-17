@@ -18,7 +18,8 @@
         'sale',
     ],
     'data': [
-        'security/ir.model.access.csv',
+#        'security/ir.model.access.csv',
+# still have to add        
         'views/product_pack_line_views.xml',
     ],
     'demo': [
